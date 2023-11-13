@@ -1,0 +1,52 @@
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\bin\Debug\wpf.exe
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\bin\Debug\wpf.pdb
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\wpf_MarkupCompile.cache
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\wpf.g.resources
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\wpf.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\wpf.exe
+C:\Documents and Settings\THR01\Desktop\wpf\wpf\obj\x86\Debug\wpf.pdb
+J:\wpf\wpf\obj\x86\Debug\wpf.exe
+J:\wpf\wpf\obj\x86\Debug\wpf.pdb
+J:\wpf\wpf\bin\Debug\wpf.exe
+J:\wpf\wpf\bin\Debug\wpf.pdb
+J:\wpf\wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\wpf\wpf\obj\x86\Debug\MainWindow.baml
+J:\wpf\wpf\obj\x86\Debug\MainWindow.g.cs
+J:\wpf\wpf\obj\x86\Debug\App.g.cs
+J:\wpf\wpf\obj\x86\Debug\wpf_MarkupCompile.cache
+J:\wpf\wpf\obj\x86\Debug\wpf.g.resources
+J:\wpf\wpf\obj\x86\Debug\wpf.Properties.Resources.resources
+J:\wpf\wpf\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\wpf\wpf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\bin\Debug\wpf.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\bin\Debug\wpf.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf_MarkupCompile.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.g.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\bin\Debug\wpf.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\bin\Debug\wpf.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf_MarkupCompile.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.g.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\wpf.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\wpf\wpf\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,28 @@
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\bin\Debug\tekrar.exe
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\bin\Debug\tekrar.pdb
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\tekrar.Form1.resources
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\tekrar.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\tekrar.exe
+C:\Documents and Settings\THR01\Desktop\tekrar\tekrar\obj\x86\Debug\tekrar.pdb
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\tekrar.exe
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\tekrar.pdb
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\bin\Debug\tekrar.exe
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\bin\Debug\tekrar.pdb
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\tekrar.Form1.resources
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\tekrar.Properties.Resources.resources
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\Yeni klasör\20120924\tekrar\tekrar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\tekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\tekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\bin\Debug\tekrar.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\bin\Debug\tekrar.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\tekrar.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\tekrar.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\2.GÜN\tekrar\tekrar\tekrar\obj\x86\Debug\tekrar.exe
